@@ -1,4 +1,4 @@
-package com.wired.work11;
+package com.education_wired_.work11;
 
 
 import java.util.Arrays;
